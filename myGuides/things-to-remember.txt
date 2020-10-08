@@ -1,0 +1,9 @@
+** path authentication:
+es aris avtomaturi linki romelsac loginis mere avtomaturad homze gadayavxar. amis shesworeba sheidzleba... vnaxo LARAVEL DOCUMENTATION
+
+** middleware --- gavigo da davimaxsovro kargad:
+exeba autentikacias
+
+
+** laravel localization -> ase vnaxo documentaciashi
+exeba sxvadasxva enebis chamatebas chvens proeqtshi
